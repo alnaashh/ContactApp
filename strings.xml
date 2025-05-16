@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="auto_login">Masuk Otomatis</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="or_text">-- atau --</string>
+    <string name="copyright">© 2025 Kontak App</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="email">Email Anda</string>
+    <string name="uid">ID Pengguna: 123456789</string>
+    <string name="logout">Keluar</string>
+    <string name="save">Simpan</string>
+    <string name="add_contact">Tambah Kontak</string>
+    <string name="contacts_list">Daftar Kontak</string>
+    <string name="name_hint">Nama</string>
+    <string name="phone_hint">Nomor Telepon</string>
+    <string name="contact_saved">Kontak berhasil disimpan</string>
+    <string name="contact_deleted">Kontak berhasil dihapus</string>
+    <string name="error_empty_fields">Semua kolom harus diisi</string>
+    <string name="confirm_delete">Apakah Anda yakin ingin menghapus kontak ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="search_contacts">Cari kontak</string>
+    <string name="edit_contact">Edit Kontak</string>
+    <string name="delete_contact">Hapus Kontak</string>
+    <string name="add_new_contact">Tambah Kontak Baru</string>
+    <string name="contact_avatar">Foto Kontak</string>
+    <string name="more_options">Opsi Lainnya</string>
+    <string name="contact_email">email@example.com</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+</resources>
